@@ -1,3 +1,7 @@
+[![Journal](https://img.shields.io/badge/Journal-Journal%20of%20Plant%20Research-blue)](https://www.springer.com/journal/10265)
+
+[![Status](https://img.shields.io/badge/Status-%20Published-Green)]()
+
 ## ## FT-NIR Analysis of the Scaly clade of *Microgramma*
 
 This repository contains the analysis scripts and data for the study: **"A comparison of interspecific and intraspecific phenotypic variation in spectral signatures of ferns with robust versus uncertain species boundaries"**.
