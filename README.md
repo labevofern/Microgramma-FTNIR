@@ -1,7 +1,7 @@
 # FT-NIR Analysis of the Scaly clade of Microgramma
 
 [![Journal](https://img.shields.io/badge/Journal-Journal%20of%20Plant%20Research-blue)](https://www.springer.com/journal/10265)
-[![Status](https://img.shields.io/badge/Status-Under%20Review-orange)]()
+[![Status](https://img.shields.io/badge/Status-Under%20Published-Green)]()
 
 This repository contains the analysis scripts developed for the study of Fourier-transform near-infrared (FT-NIR) spectroscopy applied to species of the Scaly clade of the genus *Microgramma*.
 
